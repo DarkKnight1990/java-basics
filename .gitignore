@@ -1,0 +1,7 @@
+##### ignore few files #####
+.classpath
+.settings
+.project
+
+#### ignore the class files
+*.class
